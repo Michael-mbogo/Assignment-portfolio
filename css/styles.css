@@ -1,0 +1,48 @@
+body {
+background-color: silver;
+font-family: sans-serif;
+}
+h5 {
+font-size: 18px;
+font-style: italic;
+color: grey;
+
+}
+h4 {
+font-size: 18px;
+font-style: italic;
+color: grey;
+}
+h6 {
+font-size: 18px;
+font-style: italic;
+color: grey;
+}
+h7 {
+font-size: 18px;
+font-style: italic;
+color: grey;
+}
+h1 {
+font-size: 40px;
+font-style: oblique;
+color: grey;
+text-align: left;
+text-shadow: 20px;
+
+}
+h2 {
+font-size: 30px;
+font-style: italic;
+color: grey;
+text-align: left;
+
+}
+h3 {
+font-size: 25px;
+font-style: italic;
+color: grey;
+}
+img {
+float: left;
+margin-right: 40px;
